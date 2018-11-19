@@ -1,0 +1,19 @@
+{
+  "name": "estudio-nodejs",
+  "version": "1.0.0",
+  "description": "Estudio de nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "estudio"
+  ],
+  "author": "Fabian",
+  "license": "ISC"
+}
